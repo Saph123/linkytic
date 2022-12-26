@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "cc2530")(type "KiCad")(uri "${KIPRJMOD}/cc2530.kicad_sym")(options "")(descr ""))
+  (lib (name "cc_debugger")(type "KiCad")(uri "${KIPRJMOD}/cc_debugger.kicad_sym")(options "")(descr ""))
 )
